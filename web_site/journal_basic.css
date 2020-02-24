@@ -26,6 +26,7 @@ div.container {
 
 div.header {
 	border: 5px red solid;
+	text-align: right;
 }
 
 div.h2 {
@@ -71,11 +72,14 @@ h1, h2 {
 	font-family: "Century Gothic";
 	margin: 3px;
 	padding: 0px;
+
 }
 
 img {
+	float: right;
 	border-style: none;
 	padding: 5px;
+	position: right;
 }
 
 ul {
