@@ -5,6 +5,32 @@
    NOTE: This file does NOT need changing for the lab.
 */
 
+
+div.container {
+	border: 5px green solid;
+}
+
+
+div.header {
+	border: 5px red solid;
+}
+
+div.h2 {
+	border: 5px orange solid;
+}
+
+div.p{
+	border: 5px blue solid;
+}
+
+
+
+span {
+	border: 5px violet solid;
+}
+
+
+
 a {
 	color: #245F5F;
 	text-decoration: none;
