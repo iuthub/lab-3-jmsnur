@@ -6,8 +6,21 @@
 */
 
 
+body {
+
+	margin-right: 10%; 
+	margin-left: 10%;
+	background-image: url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.brusheezy.com%2Fpatterns%2F1491-charcoal-damask-pattern-seamless&psig=AOvVaw3C7ZICF2WWcvwziV6QFLhh&ust=1582613129308000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIiV6r7L6ecCFQAAAAAdAAAAABAD");
+	background-repeat: repeat;
+}
+
+
+
 div.container {
+	display: flex;
+	flex-direction: column;
 	border: 5px green solid;
+	background-color: white;
 }
 
 
@@ -20,7 +33,10 @@ div.h2 {
 }
 
 div.p{
+	padding: 5px;
+	margin-top: 10px;
 	border: 5px blue solid;
+	background-color: #E8FBFB;
 }
 
 
